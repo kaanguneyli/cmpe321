@@ -1,3 +1,4 @@
 # CMPE321 - INTRODUCTION TO DATABASE SYSTEMS
 
-Project 3 has its own repository under the profile kaanguneyli
+ALL THESE PROJECTS WERE DONE WITH [HASAN KEREM ŞEKER](https://github.com/hks1444)
+[PROJECT 3](https://github.com/kaanguneyli/cmpe321-simpleDBMS) HAS ITS OWN REPO
